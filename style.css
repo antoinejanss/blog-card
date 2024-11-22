@@ -5,7 +5,7 @@ body{
 
 #main-container{
   background: #fff;
-  margin: 50% 10%;
+  margin: 10% 30%;
   padding: 5%;
   border-radius: 20px;
   outline: 1.5px solid black;
@@ -72,7 +72,7 @@ body{
     /* CSS rules for screens 1440px and wider */
     #main-container {
         background: #fff;
-        margin: 15% 35%;
+        margin: 10% 35%;
         padding: 3%;
     }
     }
